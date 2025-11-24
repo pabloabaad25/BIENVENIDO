@@ -13,9 +13,7 @@ Me encuentro en constante aprendizaje y desarrollo. Estas son algunas de las **t
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
 | **Bases de Programación** | **C#**, **Java**, Python, JavaScript, SQL |
-| **Game Development** | Unity, Godot (o el motor que uses), Diseño 2D/3D |
 | **Sistemas y Redes** | Configuración de **Sistemas Operativos** (Windows, Linux), Redes Locales (**LAN**), Mantenimiento de Hardware |
-| **Diseño y Creatividad** | Diseño de Experiencia de Usuario (**UX/UI**), Modelado Básico 3D, Diseño de Bases de Datos |
 
 ---
 
