@@ -1,4 +1,4 @@
-# 🎮 ¡Bienvenido/a a mi Rincón Digital! 🚀
+# 🎮 ¡Bienvenido/a a mi Cuenta! 🚀
 
 Hola, soy **Pablo** 👋.
 
