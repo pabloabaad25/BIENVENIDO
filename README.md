@@ -40,11 +40,3 @@ Mi formación me proporciona una base sólida tanto en la **infraestructura** co
 > "La programación es la única **superpotencia** que necesitas en el siglo XXI. Y en el desarrollo de videojuegos, es la varita mágica que da vida a los mundos."
 
 ---
-
-## 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloabaad25&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes Principales de pabloabaad25" />
-</p>
-
----
